@@ -30,7 +30,7 @@ The **Business Performance Insights Dashboard** helps decision-makers understand
 - **Data Visualization** (bar charts, line charts, maps, KPI cards)
 - **Azure Maps** (for geo-analysis)
 - **Python** for EdA and Data preprocessing
-- **Excel* for data storage
+- **Excel** for data storage
 
 ---
 
