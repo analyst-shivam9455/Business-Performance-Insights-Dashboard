@@ -35,4 +35,4 @@ The **Business Performance Insights Dashboard** helps decision-makers understand
 ---
 
 ##  Dashboard Preview
-- **Link** - https://app.powerbi.com/view?r=eyJrIjoiNjk4MGUyYjgtYmMzMS00YmU0LThmY2MtODhlOWI0ODVjZTkwIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
+- **Link** - https://app.powerbi.com/view?r=eyJrIjoiNDFjYzA1YmEtMDJjZC00ZDg2LTljMjUtYmJlOGY4MWZlMTM1IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
